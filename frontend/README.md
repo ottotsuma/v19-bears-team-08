@@ -1,6 +1,14 @@
-# frontend
+# Chingu Dashboard (frontend)
 
-> Chingu Dashboard
+## Tech Choices
+
+I've used React for over the past year and wanted to try out Vue because I've heard many good things about it and I'm interested in learning something new to expand my skillset.
+
+I choose to build the dashboard with NuxtJS, mostly because it's the Vue equivilant to React's NextJS (which I absolutely love).
+
+Styling will be done with TailwindCSS because I enjoyed my previous experience with it and I wanted more control over the styling.
+
+I'm attempting to write most of the code in TypeScript, but my main goal is to learn Vue, so I may use `any` more than I have before if I hit some weird issues.
 
 ## Build Setup
 
@@ -19,4 +27,4 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+> For detailed explanation on how things work, check out the [Nuxt.js docs](https://nuxtjs.org).
