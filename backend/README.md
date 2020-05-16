@@ -2,13 +2,19 @@
 
 ## Tech Choices
 
-give some info here
+This is my first time building an API with authentication. I have chosen Node.js & MongoDB as I have used them before. 
 
 ## Build Setup
 
-```bash
-replace with build/installation steps
-```
+# install dependencies
+$ npm install
+
+$ being able to see the data
+Install postman --- https://www.postman.com/
+
+# build for production and launch server
+$ npm run build
+$ npm run start
 
 ## **.env** file
 
