@@ -2,6 +2,8 @@
 
 ## Our Team
 
+
+- [Shaun Darragh](https://github.com/ottotsuma)
 - [Daniel Strong](https://github.com/dastrong)
 <!-- - [name](github link) -->
 
